@@ -1,7 +1,7 @@
- ## Hi there 👋
+ ## 👋Hi, I'm Andrea!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+👩🏻‍💻Computer Science and Engineering student
+🌷Digital Garden
+💭Currently learning
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=andrea-goncalves)](https://github.com/stats-organization/github-stats-extended)
